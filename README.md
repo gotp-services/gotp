@@ -1,0 +1,2 @@
+# gotp
+Golang like OTP
